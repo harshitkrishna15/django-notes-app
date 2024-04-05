@@ -3,4 +3,4 @@ services :
   web :
      image : 15092002/my-note-app:latest
      ports :
-         - "8000:8000"
+         - "8081:8000"
